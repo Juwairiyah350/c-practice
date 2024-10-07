@@ -1,5 +1,5 @@
 #include <stdio.h>
-//is a number divisible by 2
+//To check if a number is divisible by 2
 int main()
 {
 int n;
